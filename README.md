@@ -14,7 +14,7 @@ with active internet connection can contact and donate the blood through this ap
 
 ## Tool used
 - Firebase Authentication
-- RoomDatabase for storage
+- Room Database for storage
 - Android Studio IDE
 ## Support
 
