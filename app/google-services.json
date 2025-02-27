@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566167943355",
+    "project_id": "aayomilovideocall",
+    "storage_bucket": "aayomilovideocall.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566167943355:android:6c5a93bb55cc269f4e519e",
+        "android_client_info": {
+          "package_name": "jain.piyush.blooddonor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEaQRIOnx5uADRtksTuBvTd3sO4zKj39c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
